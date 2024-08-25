@@ -1,0 +1,36 @@
+[
+  {
+    "title": "post1",
+    "description": "blablabalab",
+    "date": "2024-08-23T13:32:21.027Z"
+  },
+  {
+    "title": "post2",
+    "description": "asdfghj",
+    "date": "2024-08-23T13:32:53.975Z"
+  },
+  {
+    "title": "gatito",
+    "description": "gatito lindo",
+    "imageUrl": "https://purina.com.pe/sites/default/files/styles/webp/public/2022-10/Que_debes_saber_antes_de_adoptar_un_gatito.jpg.webp?itok=N2sS0lfp",
+    "date": "2024-08-23T13:45:13.643Z"
+  },
+  {
+    "title": "post prueba 2",
+    "description": "probando",
+    "imageUrl": "https://purina.com.pe/sites/default/files/styles/webp/public/2022-10/Que_debes_saber_antes_de_adoptar_un_gatito.jpg.webp?itok=N2sS0lfp",
+    "date": "2024-08-25T00:09:52.656Z"
+  },
+  {
+    "title": "12345678",
+    "description": "1234567890",
+    "imageUrl": "https://purina.com.pe/sites/default/files/styles/webp/public/2022-10/Que_debes_saber_antes_de_adoptar_un_gatito.jpg.webp?itok=N2sS0lfp",
+    "date": "2024-08-25T00:10:20.006Z"
+  },
+  {
+    "title": "prueba user 1",
+    "description": "post user 1",
+    "imageUrl": "https://purina.com.pe/sites/default/files/styles/webp/public/2022-10/Que_debes_saber_antes_de_adoptar_un_gatito.jpg.webp?itok=N2sS0lfp",
+    "date": "2024-08-25T00:19:29.895Z"
+  }
+]
